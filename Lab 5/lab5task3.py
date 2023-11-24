@@ -1,0 +1,1 @@
+## Lab 5, Task 3#base = int(input('Enter the base: '))exponent = int(input('Enter the exponent: '))total = 1for i in range(exponent):    total = total * base    print('The result is: ', total)

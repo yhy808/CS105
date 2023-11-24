@@ -1,0 +1,152 @@
+Name,Location,Rank,Setting,Type,Enrollment,Tuition
+Princeton University,Princeton NJ,1,Suburban,Private,5402,45320
+Harvard University,Cambridge MA,2,Urban,Private,6699,47074
+University of Chicago,Chicago IL,3,Urban,Private,5844,52491
+Yale University,New Haven CT,3,City,Private,5532,49480
+Columbia University,New York NY,5,Urban,Private,6102,55056
+Stanford University,Stanford CA,5,Suburban,Private,6999,47940
+Massachusetts Institute of Technology,Cambridge MA,7,Urban,Private,4527,48452
+Duke University,Durham NC,8,Suburban,Private,6639,51265
+University of Pennsylvania,Philadelphia PA,8,Urban,Private,9726,51464
+Johns Hopkins University,Baltimore MD,10,Urban,Private,6524,50410
+Dartmouth College,Hanover NH,11,Rural,Private,4307,51438
+California Institute of Technology,Pasadena CA,12,Suburban,Private,1001,47577
+Northwestern University,Evanston IL,12,Suburban,Private,8314,50855
+Brown University,Providence RI,14,City,Private,6652,51367
+Cornell University,Ithaca NY,15,Rural,Private,14315,50953
+Rice University,Houston TX,15,Urban,Private,3910,43918
+University of Notre Dame,Notre Dame IN,15,Suburban,Private,8462,49685
+Vanderbilt University,Nashville TN,15,Urban,Private,6883,45610
+Washington University in St. Louis,St. Louis MO,19,City,Private,7504,49770
+Emory University,Atlanta GA,20,City,Private,6867,47954
+Georgetown University,Washington DC,20,Urban,Private,7562,50547
+University of California Berkeley,Berkeley CA,20,City,Public,27496,40191
+University of Southern California,Los Angeles CA,23,Urban,Private,18810,52217
+Carnegie Mellon University,Pittsburgh PA,24,Urban,Private,6454,52040
+University of California Los Angeles,Los Angeles CA,24,Urban,Public,29585,39518
+University of Virginia,Charlottesville VA,24,Suburban,Public,16736,45066
+Tufts University,Medford MA,27,Suburban,Private,5290,52430
+University of Michigan Ann Arbor,Ann Arbor MI,27,City,Public,28312,43476
+Wake Forest University,Winston-Salem NC,27,Suburban,Private,4871,49308
+University of North Carolina Chapel Hill,Chapel Hill NC,30,Suburban,Public,18415,33916
+Boston College,Chestnut Hill MA,31,Suburban,Private,9192,51296
+College of William & Mary,Williamsburg VA,32,Suburban,Public,6301,41718
+University of Rochester,Rochester NY,32,Urban,Private,6304,50142
+Brandeis University,Waltham MA,34,Suburban,Private,3621,51570
+Georgia Institute of Technology,Atlanta GA,34,Urban,Public,15142,32404
+New York University,New York NY,36,Urban,Private,25722,49062
+Case Western Reserve University,Cleveland OH,37,Urban,Private,5121,46006
+University of California Santa Barbara,Santa Barbara CA,37,Suburban,Public,20607,40704
+Boston University,Boston MA,39,Urban,Private,17932,50240
+Northeastern University,Boston MA,39,Urban,Private,13697,47655
+Rensselaer Polytechnic Institute,Troy NY,39,Suburban,Private,5864,50797
+Tulane University,New Orleans LA,39,Urban,Private,6662,51010
+University of California Irvine,Irvine CA,39,Suburban,Public,25256,39458
+Lehigh University,Bethlehem PA,44,City,Private,5075,48320
+University of California Davis,Davis CA,44,City,Public,28384,40728
+University of California San Diego,La Jolla CA,44,Urban,Public,26590,41387
+University of Illinois Urbana-Champaign,Champaign IL,44,City,Public,33368,31320
+University of Miami,Coral Gables FL,44,Suburban,Private,11122,47004
+University of Wisconsin Madison,Madison WI,44,City,Public,31662,32738
+Pepperdine University,Malibu CA,50,Suburban,Private,3533,50022
+University of Florida,Gainesville FL,50,Suburban,Public,35043,28666
+Villanova University,Villanova PA,50,Suburban,Private,6994,49280
+Pennsylvania State University University Park,University Park PA,50,City,Public,40742,32382
+Ohio State University Columbus,Columbus OH,54,Urban,Public,45289,29229
+University of Washington,Seattle WA,54,Urban,Public,31063,34791
+George Washington University,Washington DC,56,Urban,Private,11157,51950
+Southern Methodist University,Dallas TX,56,Urban,Private,6411,50358
+University of Georgia,Athens GA,56,City,Public,27547,29844
+University of Texas Austin,Austin TX,56,Suburban,Public,39619,34676
+Fordham University,New York NY,60,Urban,Private,8855,47317
+Purdue University West Lafayette,West Lafayette IN,60,City,Public,29497,28804
+Syracuse University,Syracuse NY,60,City,Private,15196,45022
+University of Connecticut,Storrs CT,60,Rural,Public,18826,35858
+University of Maryland College Park,College Park MD,60,Suburban,Public,27443,32045
+Worcester Polytechnic Institute,Worcester MA,60,City,Private,4299,46994
+Clemson University,Clemson SC,66,Suburban,Public,18016,32796
+Yeshiva University,New York NY,66,Urban,Private,2744,40670
+Brigham Young University Provo,Provo UT,68,City,Private,30221,5300
+University of Pittsburgh,Pittsburgh PA,68,Urban,Public,18908,29758
+Rutgers University New Brunswick,Piscataway NJ,70,City,Public,35484,30023
+Baylor University,Waco TX,71,City,Private,14189,42006
+Stevens Institute of Technology,Hoboken NJ,71,City,Private,2873,48838
+University of Minnesota Twin Cities,Minneapolis MN,71,Urban,Public,34071,22210
+American University,Washington DC,74,Suburban,Private,7909,44853
+Clark University,Worcester MA,74,City,Private,2397,43150
+Texas A&M University College Station,College Station TX,74,City,Public,48960,28768
+University of Massachusetts Amherst,Amherst MA,74,Suburban,Public,22748,30123
+Virginia Tech,Blacksburg VA,74,Suburban,Public,25384,29371
+Miami University Oxford,Oxford OH,79,Rural,Public,16387,31592
+University of California Santa Cruz,Santa Cruz CA,79,Suburban,Public,16231,40241
+University of Delaware,Newark DE,79,Suburban,Public,18322,31420
+Colorado School of Mines,Golden CO,82,Suburban,Public,4608,34828
+Michigan State University,East Lansing MI,82,Suburban,Public,39143,39090
+Texas Christian University,Fort Worth TX,82,Suburban,Private,8894,42670
+University of Iowa,Iowa City IA,82,City,Public,23357,28413
+Binghamton University SUNY,Binghamton NY,86,Suburban,Public,13491,22164
+Indiana University Bloomington,Bloomington IN,86,City,Public,38364,34246
+Marquette University,Milwaukee WI,86,Urban,Private,8334,38470
+University of Denver,Denver CO,86,City,Private,5758,46362
+University of San Diego,San Diego CA,86,Urban,Private,5647,46140
+University of Tulsa,Tulsa OK,86,City,Private,3478,38796
+Florida State University,Tallahassee FL,92,City,Public,32706,24673
+North Carolina State University Raleigh,Raleigh NC,92,City,Public,24111,26399
+University of Colorado Boulder,Boulder CO,92,City,Public,27010,35079
+University of Vermont,Burlington VT,92,Suburban,Public,10973,40364
+Drexel University,Philadelphia PA,96,Urban,Private,14138,51030
+Saint Louis University,St. Louis MO,96,Urban,Private,8248,40726
+Stony Brook University SUNY,Stony Brook NY,96,Suburban,Public,16831,26266
+Auburn University,Auburn AL,99,Suburban,Public,21786,28840
+Loyola University Chicago,Chicago IL,99,City,Private,11079,41384
+SUNY College of Environmental Science and Forestry,Syracuse NY,99,City,Public,1839,17620
+University at Buffalo SUNY,Buffalo NY,99,Suburban,Public,19951,26270
+Illinois Institute of Technology,Chicago IL,103,Urban,Private,2991,45214
+University of Alabama,Tuscaloosa AL,103,Suburban,Public,31958,26950
+University of Oregon,Eugene OR,103,City,Public,20538,33442
+University of Tennessee,Knoxville TN,103,Urban,Public,21863,30858
+Rochester Institute of Technology,Rochester NY,107,Suburban,Private,12607,38568
+University of New Hampshire,Durham NH,107,Suburban,Public,13034,31424
+University of San Francisco,San Francisco CA,107,Urban,Private,6782,44494
+University of South Carolina,Columbia SC,107,City,Public,25237,31282
+Iowa State University,Ames IA,111,City ,Public,30034,21483
+University of Dayton,Dayton OH,111,Suburban,Private,8665,40940
+University of Missouri,Columbia MO,111,City,Public,27812,25892
+University of Nebraska Lincoln,Lincoln NE,111,City,Public,20182,23148
+University of Oklahoma,Norman OK,111,City,Public,22132,21451
+University of the Pacific,Stockton CA,111,City,Private,3735,44588
+University of Utah,Salt Lake City UT,111,Urban,Public,23794,27039
+Michigan Technological University,Houghton MI,118,Rural,Public,5721,30968
+Seton Hall University,South Orange NJ,118,Suburban,Private,6090,39258
+Temple University,Philadelphia PA,118,Urban,Public,28609,25994
+University of California Riverside,Riverside CA,118,City,Public,18608,40263
+University of Kansas,Lawrence KS,118,City,Public,19245,25932
+University of St. Thomas,St. Paul MN,118,Urban,Private,6240,39594
+The Catholic University of America,Washington DC,124,Urban,Private,3480,42536
+DePaul University,Chicago IL,124,Urban,Private,15961,37626
+Duquesne University,Pittsburgh PA,124,Urban,Private,5961,35062
+Howard University,Washington DC,124,Urban,Private,6883,24908
+University of Arizona,Tucson AZ,124,City,Public,33732,30025
+Arizona State University Tempe,Tempe AZ,129,Urban,Public,41828,25458
+Clarkson University,Potsdam NY,129,Rural,Private,3257,46132
+Colorado State University,Fort Collins CO,129,City,Public,24433,28374
+New School,New York NY,129,Urban,Private,6792,45535
+Hofstra University,Hempstead NY,133,Suburban,Private,6824,42160
+University of Kentucky,Lexington KY,133,City,Public,22705,26334
+Kansas State University,Manhattan KS,135,City,Public,19859,23429
+Louisiana State University Baton Rouge,Baton Rouge LA,135,Urban,Public,26156,27005
+Mercer University,Macon GA,135,City,Private,4667,35130
+New Jersey Institute of Technology,Newark NJ,135,Urban,Public,8008,30326
+Rutgers University Newark,Newark NJ,135,Urban,Public,7713,29480
+University of Arkansas,Fayetteville AR,135,City,Public,22159,23168
+University of Cincinnati,Cincinnati OH,135,Urban,Public,25054,26334
+University of Mississippi,University MS,135,Rural,Public,18785,22012
+George Mason University,Fairfax VA,143,Suburban,Public,23062,32582
+Oregon State University,Corvallis OR,143,City,Public,24612,28846
+Washington State University,Pullman WA,143,Rural,Public,24470,25673
+Adelphi University,Garden City NY,146,Suburban,Private,4852,34034
+Ohio University,Athens OH,146,Suburban,Public,23513,21208
+San Diego State University,San Diego CA,146,Urban,Public,29234,18244
+St. John Fisher College,Rochester NY,146,Suburban,Private,2805,31880
+University at Albany SUNY,Albany NY,146,Suburban,Public,12908,22244
+University of Texas Dallas,Richardson TX,146,Suburban,Public,15575,33654

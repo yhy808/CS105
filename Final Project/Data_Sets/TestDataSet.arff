@@ -1,0 +1,40 @@
+@relation 'Classified Data-weka.filters.unsupervised.instance.Randomize-S42-weka.filters.unsupervised.instance.RemovePercentage-P80.0'
+
+@attribute ﻿Location {East,North,West,South}
+@attribute Rank numeric
+@attribute Setting {Suburban,Urban,City,Rural}
+@attribute Type {Private,Public}
+@attribute Enrollment numeric
+@attribute Tuition {45000_and_up,35000_to_45000,25000_to_35000,25000_and_lower}
+
+@data
+East,74,Suburban,Public,22748,25000_to_35000
+East,39,Suburban,Private,5864,45000_and_up
+South,19,City,Private,7504,45000_and_up
+East,31,Suburban,Private,9192,45000_and_up
+East,10,Urban,Private,6524,45000_and_up
+East,60,Rural,Public,18826,35000_to_45000
+South,56,Urban,Private,6411,45000_and_up
+West,12,Suburban,Private,1001,45000_and_up
+North,44,City,Private,5075,45000_and_up
+West,5,Suburban,Private,6999,45000_and_up
+East,146,Suburban,Private,2805,25000_to_35000
+West,50,Suburban,Private,3533,45000_and_up
+East,1,Suburban,Private,5402,45000_and_up
+East,7,Urban,Private,4527,45000_and_up
+North,44,City,Public,31662,25000_to_35000
+North,60,City,Public,29497,25000_to_35000
+South,86,City,Private,3478,35000_to_45000
+South,135,Urban,Public,26156,25000_to_35000
+North,103,Urban,Private,2991,45000_and_up
+East,60,Urban,Private,8855,45000_and_up
+South,44,Suburban,Private,11122,45000_and_up
+West,118,City,Public,18608,35000_to_45000
+East,39,Urban,Private,17932,45000_and_up
+East,86,Suburban,Public,13491,25000_and_lower
+West,124,City,Public,33732,25000_to_35000
+North,118,Rural,Public,5721,25000_to_35000
+North,82,City,Public,23357,25000_to_35000
+North,54,Urban,Public,45289,25000_to_35000
+East,60,Suburban,Public,27443,25000_to_35000
+East,5,Urban,Private,6102,45000_and_up
